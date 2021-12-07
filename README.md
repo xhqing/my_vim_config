@@ -1,6 +1,6 @@
 # my_vim_config
 
-## Installation
+## Usage
 
 ```
 mkdir ~/.vim
