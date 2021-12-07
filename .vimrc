@@ -30,9 +30,9 @@ set backspace=indent,eol,start
 set backspace=2
  
 " 启用自动对齐功能，把上一行的对齐格式应用到下一行
-set autoindent
+" set autoindent
 " 依据上面的格式，智能的选择对齐方式，对于类似C语言编写很有用处
-set smartindent
+" set smartindent
  
 " vim禁用自动备份
 set nobackup
